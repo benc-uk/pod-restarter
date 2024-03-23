@@ -1,6 +1,6 @@
 # Pod Kicker
 
-This is small proof of concept of a component to restart
+This is small proof of concept of a process to restart pods via their deployment and the Kubernetes API, when watched local files change. Intended to be run as a sidecar
 
 # Getting Started
 
